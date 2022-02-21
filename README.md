@@ -45,7 +45,9 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 **14/Fev/2022**
 
-- Criação do Github de acompanhamento às aulas de Engenharia de Segurança 2021/22
+- Criação do Github de acompanhamento às aulas de Engenharia de Segurança 2021/22.
 
+**21/Fev/2022**
 
+- Publicados os trabalhos de PA (projeto de análise) em [Pratica2](Pratica2).
 
