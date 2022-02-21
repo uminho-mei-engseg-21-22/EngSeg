@@ -23,14 +23,12 @@ Data: A indicar
 
 ## Avaliação do PA
 
-A avaliação do PA será efetuada entre 0 e 20 valores. A partir do dia em que um grupo indicar que o trabalho está terminado e colocado no github, a avaliação máxima dos restantes grupos será diminuida em 0,5 valores por dia até a um máximo de 3 valores. 
+A avaliação do PA será efetuada entre 0 e 20 valores. Quem entregar antes da data limite tem uma valorização de 1% na sua nota por cada dia de antecipação.
 
 Exemplificando:
 
-+ o Grupo A é o primeiro grupo a finalizar o PA e entrega-o no dia 10/03/2021 - a sua avaliação é efetuada entre 0 e 20 valores;
-+ o Grupo B entrega o PA no dia 12/03/2021. Como entregou passado dois dias, a sua avaliação é efetuada entre 0 e 19 valores;
-+ o Grupo C entrega o PA no dia 16/03/2021. Como entregou passado seis dias, a sua avaliação é efetuada entre 0 e 17 valores;
-+ o Grupo D entrega o PA no dia 20/03/2021. Embora tenha entregado passado dez dias dias, como o máximo de diminuição é de 3 valores, a sua avaliação é efetuada entre 0 e 17 valores.
++ o Grupo A entrega o PA no dia 10/03/2021 e tem uma avaliação de 15 valores. Como entregou 10 dias antes terá 10% de valorização, sendo a sua nota final de 16,5 valores. 
++ o Grupo B entrega o PA no dia 15/03/2021 e tem uma avaliação de 15 valores. Como entregou 5 dias antes terá 5% de valorização, sendo a sua nota final de 15,75 valores. 
 
 
 ## 1. Projetos de tipo 1 - Potencial de Ataque a tecnologia
