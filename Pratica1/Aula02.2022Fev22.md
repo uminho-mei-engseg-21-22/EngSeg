@@ -8,7 +8,7 @@ Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as r
 
 #### Pergunta P1.1
 
-Hoje é reconhecida a importância de eliminar o secretismo como factor na segurança dos sistemas criptográficos ("no securith through obscurity"). Existem autores que defendem que tal já está retratados nos Princípios de Kerckhoff de 1883. Comente (mas não exceda o equivalente a meia folha de papel A4).
+Hoje é reconhecida a importância de eliminar o secretismo como factor na segurança dos sistemas criptográficos ("_no securith through obscurity_"). Existem autores que defendem que tal já está retratados nos Princípios de Kerckhoff de 1883. Comente (mas não exceda o equivalente a meia folha de papel A4).
 
 Note que para além da versão francesa dos Princípios de Kerckhoff apresentada na aula teórica, pode encontrar a versão inglesa em https://www.petitcolas.net/kerckhoffs/index.html.
 
@@ -34,7 +34,7 @@ Verifique o que significa a seguinte mensagem: `VFGBRENHZNRKCREVRAPVN`.
 
 A cifra de César pode ser quebrada em milisegundos, utilizando ferramentas automáticas, através de ataques por força bruta.
 
-Adicionalmente existem técnicas adicionais que permitem, por análise de frequência de letras (ou conjunto de letras), avaliar qual dos resultados obtidos por força bruta que tem mais probabilidade de ser correto.
+Adicionalmente existem técnicas que permitem, por análise de frequência de letras (ou conjunto de letras), avaliar qual dos resultados obtidos por força bruta que tem mais probabilidade de ser correto.
 
 Utilizando a técnica (e o código) descrita em http://practicalcryptography.com/cryptanalysis/stochastic-searching/cryptanalysis-caesar-cipher/, verifique qual a chave utilizada para cifrar o seguinte texto em espanhol, e qual o texto original a que corresponde.
 
@@ -50,7 +50,7 @@ Utilizando a técnica do exercício anterior, desenvolva um programa em python3 
 + decifre _ciphertext_ aplicando várias cifras de Cesar, sequencialmente.
 + faça um ataque de força bruta ao espaço de todas as chaves de cifras sequenciais aplicadas ao _ciphertext_ (por uma questão de simplificação, um dos parâmetros a passar a esta função é a quantidade de cifras sequenciais aplicadas ao _ciphertext_), indicando no final qual o _cleartext_ que tem mais probabilidade de ser o texto original.
 
-No final faça a comparação dos tempos necessários para ataque de força bruta a um texto de 100 caracteres, para uma a 5 cifras sequenciais. Em cada um dos casos indique qual é o espaço total de chaves que está a avaliar.
+No final faça a comparação dos tempos necessários para ataque de força bruta a um texto de 100 caracteres, para uma a 5 cifras sequenciais. Em cada um dos casos indique qual é o espaço total de chaves que estão a ser avaliadas.
 
 #### II.2 Cifra por substituição mono-alfabética
 
