@@ -72,7 +72,6 @@ Esta família de standards fornece recomendações de melhores práticas para ge
 
 Caso tenha curiosidade sobre esta família de standards, recomenda-se que veja:
 
-+ <https://www.youtube.com/watch?v=C4xm33_bqFg> (em espanhol);
 + os vários episódios da série da Clearsec, que começam em <https://www.youtube.com/watch?v=0gzjTD1tdOw> (em francês, com legendas em inglês);
 + <https://www.youtube.com/watch?v=ltEEZLOUP90> (em inglês).
 
@@ -145,13 +144,12 @@ on setting out minimum technical specifications and procedures for assurance lev
 + Cartão de Cidadão, [publicado a 28/02/2019](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019XC0228(01));
 + Chave Móvel Digital, [publicado a 08/04/2020](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:JOC_2020_116_R_0005).
 
+
+### 3.1 Tema a analisar 
+
 Várias entidades portuguesas querem que o seu sistema de autenticação seja aprovada como sistema de identificação eletrónica, e cabe-lhe a si justificar, o nível de garantia para cada uma das especificações técnicas e procedimentos elencadas no anexo do CIR 2015/1502, assim como o nível de garantia máximo que a autenticação no homebanking poderia obter.
 
 Nota: Utilize [este guia](Guidance_on_Levels_of_Assurance.docx) para o ajudar a perceber melhor cada um dos requisitos elencadas no anexo do CIR 2015/1502.
-
-
-
-### 3.1 Tema a analisar 
 
 
 Tema a analisar por:
