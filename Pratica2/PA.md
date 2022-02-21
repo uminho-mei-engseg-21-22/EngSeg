@@ -23,6 +23,18 @@ Data: A indicar
 De seguida são apresentados os vários projetos de análise de um tema. O relatório final deverá ser colocado na área do Grupo no github até ao dia 20/03/2021, na subdiretoria "AP2-PA".
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 
+## Avaliação do PA
+
+A avaliação do PA será efetuada entre 0 e 20 valores. A partir do dia em que um grupo indicar que o trabalho está terminado e colocado no github, a avaliação máxima dos restantes grupos será diminuida em 0,5 valores por dia até a um máximo de 3 valores. 
+
+Exemplificando:
+
++ o Grupo A é o primeiro grupo a finalizar o PA e entrega-o no dia 10/03/2021 - a sua avaliação é efetuada entre 0 e 20 valores;
++ o Grupo B entrega o PA no dia 12/03/2021. Como entregou passado dois dias, a sua avaliação é efetuada entre 0 e 19 valores;
++ o Grupo C entrega o PA no dia 16/03/2021. Como entregou passado seis dias, a sua avaliação é efetuada entre 0 e 17 valores;
++ o Grupo D entrega o PA no dia 20/03/2021. Embora tenha entregado passado dez dias dias, como o máximo de diminuição é de 3 valores, a sua avaliação é efetuada entre 0 e 17 valores.
+
+
 ## 1. Projetos de tipo 1 - Potencial de Ataque a tecnologia
 
 O objetivo deste projeto é identificar o potencial de ataque estimado, necessário para efetuar ataque a determinada tecnologia, de acordo com a metodologia de avaliação do [Common Criteria](https://www.commoncriteriaportal.org/cc/) / ISO IEC 15408.
