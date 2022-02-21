@@ -50,4 +50,6 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 **21/Fev/2022**
 
 - Publicados os trabalhos de PA (projeto de análise) em [Pratica2](Pratica2).
+- Publicada a ficha de trabalho da aula 2 em [Pratica1](Pratica1).
+
 
