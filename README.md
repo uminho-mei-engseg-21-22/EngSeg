@@ -9,6 +9,7 @@
     - PD1 - Projeto para consolidação dos conceitos básicos de criptografia, com entrega final até 02/05/2022.
     - PD2 – Projeto de desenvolvimento, com entrega final até 15/06/2022.
 - [slides](slides) - contém os slides de apoio às aulas teóricas.
+- [video_aulas](video_aulas) - contém o video das aulas teóricas.
 
 
 ## Slack
@@ -38,6 +39,16 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**22/Fev/2022**
+
+- Publicado os slides da aula 2 em [slides](slides).
+- Publicado o video da aula 2 em [video_aulas](video_aulas).
+
+
+**21/Fev/2022**
+
+- Publicados os trabalhos de PA (projeto de análise) em [Pratica2](Pratica2).
+- Publicada a ficha de trabalho da aula 2 em [Pratica1](Pratica1).
 
 **14/Fev/2022**
 
@@ -46,10 +57,4 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 **14/Fev/2022**
 
 - Criação do Github de acompanhamento às aulas de Engenharia de Segurança 2021/22.
-
-**21/Fev/2022**
-
-- Publicados os trabalhos de PA (projeto de análise) em [Pratica2](Pratica2).
-- Publicada a ficha de trabalho da aula 2 em [Pratica1](Pratica1).
-
 

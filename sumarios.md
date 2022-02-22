@@ -18,5 +18,5 @@
 
 **Reuniões**:
 
-Reunião individual com os vários grupos de trabalho.
+Reunião com os vários grupos de trabalho.
 
