@@ -6,7 +6,7 @@ Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as r
 
 ### Parte III: Segurança da informação
 
-#### Pergunta P1.1
+#### Experiência III.1
 
 Durante a aula teórica desta semana, no âmbito das cifras simétricas, falámos de vários tipos de _stream ciphers_ e, vários modos de operação das _block ciphers_.
 
@@ -17,7 +17,7 @@ Identifique e explique quais das propriedades de segurança é que são fornecid
 
 #### IV.1 _Stream cipher_
 
-##### Experiência 1.1
+##### Experiência IV.1.1
 
 O RC4 já foi uma cifra muito utilizada, nomeadamente no âmbito dos protocolos SSL/TLS e WEP, mas desde 2003 foram sendo encontradas várias vulnerabilidades pelo que na prática já é hoje pouco utilizado. 
 
@@ -25,7 +25,7 @@ O RC4 já foi uma cifra muito utilizada, nomeadamente no âmbito dos protocolos 
 
 2. Porque é que pode dizer que esta cifra não tem a propriedade de autenticidade?
 
-##### Pergunta P1.1
+##### Pergunta P.IV.1.1
 
 O ChaCha20 é uma das duas cifras simétricas escolhidas para a encriptação dos novos protocolos de transporte, nomeadamente o TLS 1.3 (cf. [IETF RFC 8446](https://datatracker.ietf.org/doc/html/rfc8446)), embora a sua utilização seja opcional.
 
@@ -36,7 +36,7 @@ No interface da linha de comando (CLI - _command line interface_) deve poder ind
 
 #### IV.2 _Block cipher_
 
-##### Pergunta P2.1
+##### Pergunta P.IV.2.1
 
 O AES é uma das duas cifras simétricas escolhidas para a encriptação dos novos protocolos de transporte, nomeadamente o TLS 1.3 (cf. [IETF RFC 8446](https://datatracker.ietf.org/doc/html/rfc8446)), sendo a sua utilização obrigatória, nomeadamente com tamanho de chave de 128 bits e no modo de operação GCM (i.e., AES-128-GCM).
 
@@ -47,7 +47,7 @@ O modo de operação GCM (_Galois Counter Mode_) é cada vez mais utilizado devi
 No interface da linha de comando (CLI - _command line interface_) deve poder indicar a chave (mas se o utilizador não a colocar, deve-lhe perguntar no inicio de execução do programa), a operação a efetuar (cifra/decifra), ficheiro de input e ficheiro de output.
 
 
-##### Experiência 2.1
+##### Experiência IV.2.1
 
 Utilizando o openssl indique qual é o comando linha que utiliza para cifrar e decifrar um ficheiro com AES-256-CBC.
 
