@@ -39,6 +39,11 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**07/Mar/2022**
+
+- Publicado os slides da aula 3 em [slides](slides).
+- Publicado o video da aula 3 em [video_aulas](video_aulas).
+
 **22/Fev/2022**
 
 - Publicado os slides da aula 2 em [slides](slides).

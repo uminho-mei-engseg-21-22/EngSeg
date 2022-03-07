@@ -20,3 +20,19 @@
 
 Reunião com os vários grupos de trabalho.
 
+## Semana 3 - 08/Mar/2022
+
+**Teórica**: 
+
++ Parte III: Segurança da Informação
++ Parte IV: Cifras simétricas
+
+**Prática**: 
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.
+
