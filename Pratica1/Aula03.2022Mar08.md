@@ -31,7 +31,7 @@ O ChaCha20 é uma das duas cifras simétricas escolhidas para a encriptação do
 
 1. Desenvolva em python (utilizando a biblioteca [PyCryptodome](https://pycryptodome.readthedocs.io/en/latest/src/introduction.html)) uma aplicação linha de comando que utilize o Chacha20 para cifrar um ficheiro, em que o tamanho do nonce é de 12 bytes (conforme boas práticas definidas no [IETF RFC RFC 7539](https://datatracker.ietf.org/doc/html/rfc7539)).
 
-No interface da linha de comando (CLI - _command line interface_) deve poder indicar a chave (mas se o utilizador não a colocar, deve-lhe perguntar no inicio de execução do programa), a operação a efetuar (cifra/decifra), ficheiro de input e ficheiro de output.
+   No interface da linha de comando (CLI - _command line interface_) deve poder indicar a chave (mas se o utilizador não a colocar, deve-lhe perguntar no inicio de execução do programa), a operação a efetuar (cifra/decifra), ficheiro de input e ficheiro de output.
 
 
 #### IV.2 _Block cipher_
@@ -44,7 +44,7 @@ O modo de operação GCM (_Galois Counter Mode_) é cada vez mais utilizado devi
 
 1. Desenvolva em java (utilizando os _providers_ da Sun fornecidos por omissão) uma aplicação linha de comando que utilize o AES-128-GCM (com IV de 12 bytes aleatório e diferente em cada utilização, e Tag de 128 bits) para cifrar um ficheiro.
 
-No interface da linha de comando (CLI - _command line interface_) deve poder indicar a chave (mas se o utilizador não a colocar, deve-lhe perguntar no inicio de execução do programa), a operação a efetuar (cifra/decifra), ficheiro de input e ficheiro de output.
+   No interface da linha de comando (CLI - _command line interface_) deve poder indicar a chave (mas se o utilizador não a colocar, deve-lhe perguntar no inicio de execução do programa), a operação a efetuar (cifra/decifra), ficheiro de input e ficheiro de output.
 
 
 ##### Experiência IV.2.1
