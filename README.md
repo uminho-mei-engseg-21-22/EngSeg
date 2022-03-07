@@ -43,6 +43,7 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 - Publicado os slides da aula 3 em [slides](slides).
 - Publicado o video da aula 3 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 3 em [Pratica1](Pratica1).
 
 **22/Fev/2022**
 
