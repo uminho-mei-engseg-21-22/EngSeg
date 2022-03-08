@@ -34,6 +34,8 @@ Os grupos de trabalho têm o seguinte horário de acompanhamento todas as 3ªs f
 + Grupo 10 - 11h15
 + Grupo 11 - 11h30
 + Grupo 12 - 11h45
++ Grupo 13 - 12h00
++ Grupo 14 - 12h30
 
 De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar na sala Zoom de aulas (divulgada no blackboard da UC), cerca de 5 minutos antes do início da sua reunião de acompanhamento. Para que a reunião decorra do melhor modo, deverão também já ter planeado os pontos que querem abordar, tanto referente às aulas [teóricas](slides), [fichas de trabalho](Pratica1) ou [projetos de avaliação prática](Pratica2).
 

@@ -19,6 +19,8 @@ Data: A indicar
 + Grupo 10 - 17h00
 + Grupo 11 - 17h20
 + Grupo 12 - 17h40
++ Grupo 13 - 18h00
++ Grupo 14 - 18h20
 
 
 ## Avaliação do PA
