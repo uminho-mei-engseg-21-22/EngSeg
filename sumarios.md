@@ -36,3 +36,21 @@ Reunião com os vários grupos de trabalho.
 
 Reunião com os vários grupos de trabalho.
 
+## Semana 4 - 15/Mar/2022
+
+**Teórica**: 
+
++ Parte V: Funções de sentido único
++ Parte VI: Acordo de chaves
+
+**Prática**: 
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.
+
+
+
