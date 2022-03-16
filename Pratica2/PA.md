@@ -157,7 +157,7 @@ on setting out minimum technical specifications and procedures for assurance lev
 
 ### 3.1 Tema a analisar 
 
-Várias entidades portuguesas querem que o seu sistema de autenticação seja aprovada como sistema de identificação eletrónica, e cabe-lhe a si justificar, o nível de garantia para cada uma das especificações técnicas e procedimentos elencadas no anexo do CIR 2015/1502, assim como o nível de garantia máximo que a autenticação no homebanking poderia obter.
+Várias entidades portuguesas querem que o seu sistema de autenticação seja aprovada como sistema de identificação eletrónica, e cabe-lhe a si justificar, o nível de garantia para cada uma das especificações técnicas e procedimentos elencadas no anexo do CIR 2015/1502, assim como o nível de garantia máximo que a autenticação no serviço poderia obter.
 
 Nota: Utilize [este guia](Guidance_on_Levels_of_Assurance.docx) para o ajudar a perceber melhor cada um dos requisitos elencadas no anexo do CIR 2015/1502.
 
