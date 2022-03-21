@@ -1,7 +1,7 @@
 # Avaliação prática 2 - Projeto de análise de um tema (PA)
 
 
-De seguida são apresentados os vários projetos de análise de um tema. O relatório final deverá ser colocado na área do Grupo no github até ao dia 20/03/2021, na subdiretoria "AP2-PA".
+De seguida são apresentados os vários projetos de análise de um tema. O relatório final deverá ser colocado na área do Grupo no github até ao dia 20/03/2022, na subdiretoria "AP2-PA".
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 ## Data e horário de apresentação do trabalho
 

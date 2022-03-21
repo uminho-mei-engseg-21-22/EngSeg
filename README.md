@@ -46,6 +46,8 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 - Publicado os slides da aula 5 em [slides](slides).
 - Publicado o video da aula 5 em [video_aulas](video_aulas).
 - Publicada a ficha de trabalho da aula 5 em [Pratica1](Pratica1).
+- Publicados os trabalhos de PD1 (projeto de desenvolvimento 1) em [Pratica2](Pratica2).
+
 
 
 **14/Mar/2022**
