@@ -52,5 +52,18 @@ Reunião com os vários grupos de trabalho.
 
 Reunião com os vários grupos de trabalho.
 
+## Semana 5 - 22/Mar/2022
 
+**Teórica**: 
+
++ Parte VII: Criptografia de chave pública
+
+**Prática**: 
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.
 
