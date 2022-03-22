@@ -5,7 +5,7 @@ De seguida são apresentados os vários projetos de análise de um tema. O relat
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 ## Data e horário de apresentação do trabalho
 
-Data: A indicar
+Data: Quarta-feira, dia 20 de Abril, no zoom utilizado para as aulas
 
 + Grupo 1 - 14h00
 + Grupo 2 - 14h20
