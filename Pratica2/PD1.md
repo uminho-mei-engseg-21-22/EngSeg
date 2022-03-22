@@ -28,6 +28,13 @@ Data e hora: A indicar
 
 A avaliação do PD1 será efetuada entre 0 e 20 valores. Quem entregar antes da data limite tem uma valorização de 1% na sua nota por cada dia de antecipação.
 
+## Video com a apresentação do PD1
+
+
+Devido ao github só aceitar ficheios até 50 MB e o vídeo ter um tamanho superior, pode aceder ao video de apresentação do PD1 em <https://vm4.devisefutures.com/CSI2021-22/PD1.mov>
+
+Nota: Recomendo que o _playback time_ seja de 1,25 ou 1,5 quando eu estou a falar, já que acabo por falar devagar nesta apresentação.
+
 ----
 
 ## 1. Projetos do tipo 1 - Encriptação homomórfica
