@@ -57,6 +57,13 @@ Reunião com os vários grupos de trabalho.
 **Teórica**: 
 
 + Parte VII: Criptografia de chave pública
+  + Cifra assimétrica
+  + Assinatura Digital
+  + Algoritmo RSA
+  + Algoritmo EL-Gamal
+  + Criptografia de curvas elípticas
+  + Utilização
+
 
 **Prática**: 
 
@@ -66,4 +73,30 @@ Reunião com os vários grupos de trabalho.
 **Reuniões**:
 
 Reunião com os vários grupos de trabalho.
+
+
+## Semana 6 - 29/Mar/2022
+
+**Teórica**: 
+
++ Parte VIII: Infraestrutura de chave pública
+  + Arquitetura e aspetos operacionais
+  + Certificados X.509
+  + Cadeias de certificação / confiança
+  + Perfis e políticas de certificados
+  + Lista de revogação de certificados e OCSP
+  + Serviço de Timestamp
+  + Legislação relevante (eIDAS, DL 12/2021, ...)
+  + Utilização
+
+
+**Prática**: 
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 30/Mar/2022)
+
 
