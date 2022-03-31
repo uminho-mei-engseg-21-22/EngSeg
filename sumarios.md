@@ -68,7 +68,7 @@ Reunião com os vários grupos de trabalho.
 **Prática**: 
 
 + Exercícios sobre a componente teórica.
-+ Projeto de análise de um tema (PA)
++ Projeto de desenvolvimento 1 (PD1)
 
 **Reuniões**:
 
@@ -93,10 +93,31 @@ Reunião com os vários grupos de trabalho.
 **Prática**: 
 
 + Exercícios sobre a componente teórica.
-+ Projeto de análise de um tema (PA)
++ Projeto de desenvolvimento 1 (PD1)
 
 **Reuniões**:
 
 Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 30/Mar/2022)
 
+## Semana 7 - 05/Abr/2022
+
+**Teórica**: 
+
++ Parte IX: Criptografia aplicada
+  + Gerador de número aleatórios / pseudo-aleatórios
+  + Partilha/Divisão de segredo (Secret Sharing/Splitting)
+  + Authenticated encryption
+  + Algoritmos e tamanho de chaves - Legacy, Futuro
+  + Assinaturas cegas (blind signatures)
+  + Criptografia homomórfica
+
+
+**Prática**: 
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 30/Mar/2022)
 
