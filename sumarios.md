@@ -121,3 +121,22 @@ Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 3
 
 Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 30/Mar/2022)
 
+## Semana 8 - 19/Abr/2022
+
+**Teórica**:
+
++ Parte X: Aplicações e protocolos
+  + TLS
+  + SSH
+  + TOR
+  + Blockchain/DLT
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.
+

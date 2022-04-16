@@ -1,4 +1,4 @@
-# Video com a apresentação da aula 6
+# Video com a apresentação da aula 7
 
 
 Devido ao github só aceitar ficheios até 50 MB e o vídeo ter um tamanho superior, pode aceder ao video da aula em <https://vm4.devisefutures.com/CSI2021-22/Aula7.mov>
