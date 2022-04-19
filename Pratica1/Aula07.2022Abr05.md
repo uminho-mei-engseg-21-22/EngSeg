@@ -1,6 +1,6 @@
 # Aula TP - 05/Abr/2022
 
-Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as respostas às **experiências**, mas estas não irão contar para avaliação) dos seguintes exercícios na área do seu grupo no Github até ao final do dia 19/Abr/22. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
+Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as respostas às **experiências**, mas estas não irão contar para avaliação) dos seguintes exercícios na área do seu grupo no Github até ao final do dia 26/Abr/22. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
 ## Exercícios - Parte IX: Criptografia aplicada
 
@@ -196,7 +196,7 @@ Como foi visto na aula teórica, a assinatura cega tem três participantes que p
 - Assinante - efetua a fase de Inicialização e Assinatura,
 - Verificador - efetua a fase de Verificação.
 
-Pretende-se que altere o código fornecido para a experiência 1.2, de forma a simplificar o input e output, do seguinte modo (pode adicionar outras opções, se assim o desejar):
+Pretende-se que altere o código fornecido para a experiência 5.2, de forma a simplificar o input e output, do seguinte modo (pode adicionar outras opções, se assim o desejar):
 
 - Assinante:
 
