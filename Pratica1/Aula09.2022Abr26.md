@@ -35,7 +35,7 @@ No seu projeto de desenvolvimento 1 (PD1, no âmbito da avaliação prática 2) 
 
 Nesta secção é-lhe pedido para utilizar o ciclo de melhoria contínua do SAMM, aplicada ao projeto de desenvolvimento 2 (PD2) de software que o seu grupo está a desenvolver (no âmbito da avaliação prática 2).
 
-Para isso deverá utilizar a Toolbox ([ficheiro excel](Aula9/SAMM/SAMM_Assessment_Toolbox_v1.5_FINAL.xlsx)) fornecida na diretoria [Aula5](Aula9/SAMM), onde também encontrará mais informação relativa ao SAMM (que pode ser relevante para a resposta às perguntas desta secção).
+Para isso deverá utilizar a Toolbox ([ficheiro excel](Aula9/SAMM/SAMM_Assessment_Toolbox_v1.5_FINAL.xlsx)) fornecida na diretoria [Aula9](Aula9/SAMM), onde também encontrará mais informação relativa ao SAMM (que pode ser relevante para a resposta às perguntas desta secção).
 
 Note que:
 
