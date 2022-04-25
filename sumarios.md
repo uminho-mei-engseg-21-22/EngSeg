@@ -140,3 +140,24 @@ Reunião com os vários grupos de trabalho. (excepcionalmente efetuadas no dia 3
 
 Reunião com os vários grupos de trabalho.
 
+
+## Semana 9 - 26/Abr/2022
+
+**Teórica**:
+
+ Segurança de software:
+
++ Revisão de conceitos relativos ao _Software Development Lifecycle_ (SDLC)
++ _Secure Software Development Lifecycle_ (S-SDLC)
+  + Introdução de segurança nos modelos convencionais de desenvolvimento de software
+  + Utilização de modelo de desenvolvimento de software seguro - caso do _Microsoft Security Development Lifecycle_
+  + Adição de segurança utilizando um Modelo de Maturidade - caso do _Software Assurance Maturity Model_ (SAMM)
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.

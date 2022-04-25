@@ -1,7 +1,7 @@
 # Avaliação prática 2 - Projeto de desenvolvimento 1 (PD1)
 
 
-De seguida são apresentados os vários projetos para consolidação dos conceitos básicos de criptografia. O relatório final deverá ser colocado na área do Grupo no github até ao dia 02/05/2022, na subdiretoria "AP2-PD1".
+De seguida são apresentados os vários projetos para consolidação dos conceitos básicos de criptografia. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 02/05/2022, na subdiretoria "AP2-PD1" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**).
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 
 ## Data e horário de apresentação do trabalho

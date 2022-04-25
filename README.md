@@ -41,6 +41,13 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**25/Abr/2022**
+
+- Publicado os slides da aula 9 em [slides](slides).
+- Publicado o video da aula 9 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 9 em [Pratica1](Pratica1).
+- Publicados os trabalhos de PD2 (projeto de desenvolvimento 2) em [Pratica2](Pratica2).
+
 **16/Abr/2022**
 
 - Publicado os slides da aula 8 em [slides](slides).
