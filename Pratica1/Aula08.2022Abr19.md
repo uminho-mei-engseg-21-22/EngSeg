@@ -277,3 +277,11 @@ Nota:
 
 1. Na experiência anterior, qual é o algoritmo de 'proof of work' ?
 2. Parece-lhe um algoritmo adequado para minerar? Porquê?
+
+#### Experiência 4.5 - Aprender a programa em Solidity
+
+**Nota**: Experiência adicionada a 26/Abr a pedido de alguns alunos.
+
+O Solidity é uma linguagem de programação orientada a objetos, utilizada para implementar _smart contracts_ em várias plataformas _blockchain_, entre as quais a Ethereum.
+
+Pode aprender solidity e a desenvolver DApps fazendo os tutoriais em <https://cryptozombies.io/en/course/>.
