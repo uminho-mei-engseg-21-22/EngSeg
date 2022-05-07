@@ -7,4 +7,4 @@ Devido ao github só aceitar ficheiros até 50 MB e o vídeo ter um tamanho supe
 
 Nota: Recomendo que o _playback time_ seja de 1,25 ou 1,5 quando eu estou a falar, já que acabo por falar devagar nesta apresentação.
 
-Nota 2: As duas partes da aula não foram gravadas este ano, mas ainda se encontram actuais.
+Nota 2: As duas partes da aula não foram gravadas este ano, mas ainda se encontram actuais (embora os slides deste ano tenham pequenas alterações em relação aos que são apresentados).
