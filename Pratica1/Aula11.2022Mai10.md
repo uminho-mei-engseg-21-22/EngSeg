@@ -64,7 +64,7 @@ Baseado nos portais web identificados, efetue as seguintes experiências:
 
 + Utilize a ferramenta Panopticlick da _Electronic Frontier Foundation_ (EFF) para verificar se o seu browser é seguro contra _tracking_ - <https://panopticlick.eff.org/>
 + No _PRISM Break_ verifique que aplicações deve evitar e aquelas que deve preferir na sua plataforma - <https://prism-break.org/en/>
-+ No _Security in-a-box_ verifique a tática para proteger ficheiros sensíveis no seu computador - <https://securityinabox.org/en/guide/secure-file-storage/>
++ No _Security in-a-box_ verifique a tática para proteger ficheiros sensíveis no seu computador - <https://securityinabox.org/en/files/secure-file-storage/>
 + O privacytools.io disponibiliza informação sobre um conjunto alargado de ferramentas que preservam a privacidade - <https://www.privacytools.io/>
 
 #### Pergunta P1.1
