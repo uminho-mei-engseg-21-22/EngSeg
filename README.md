@@ -41,6 +41,14 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**7/Mai/2022**
+
+- Publicado os slides da aula 11 em [slides](slides).
+- Publicado o video da aula 11 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 11 em [Pratica1](Pratica1).
+
+**Nota:** No dia 10 de Maio, devido às festas académicas, não haverá aula de acompanhamento com os grupos de trabalho.
+
 **30/Abr/2022**
 
 - Publicado os slides da aula 10 em [slides](slides).
