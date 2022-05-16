@@ -185,3 +185,32 @@ Reunião com os vários grupos de trabalho.
 **Reuniões**:
 
 Reunião com os vários grupos de trabalho.
+
+## Semana 11 - 10/Mai/2022
+
+**Teórica**:
+
++ RGPD (Regulamento Geral de Proteção de Dados) - visão técnica, e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
+
+## Semana 11 - 17/Mai/2022
+
+**Teórica**:
+
+ Segurança de software:
+
++ Vulnerabilidade de Buffer overflow
++ Vulnerabilidade de inteiros
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.

@@ -41,6 +41,12 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 ## Avisos 
 
+**16/Mai/2022**
+
+- Publicado os slides da aula 12 em [slides](slides).
+- Publicado o video da aula 12 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 12 em [Pratica1](Pratica1).
+
 **7/Mai/2022**
 
 - Publicado os slides da aula 11 em [slides](slides).
