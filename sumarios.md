@@ -197,7 +197,7 @@ Reunião com os vários grupos de trabalho.
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 2 (PD2)
 
-## Semana 11 - 17/Mai/2022
+## Semana 12 - 17/Mai/2022
 
 **Teórica**:
 

@@ -250,8 +250,8 @@ Analise o programa erro_sinal.c.
 
 Analise o programa y2k38.c.
 
-1. Compile-o e execute-o. Do resultado obtido o que pode dizer sobre a arquitetura onde o mesmo foi copilado? Porquê?
+1. Compile-o e execute-o. Do resultado obtido o que pode dizer sobre a arquitetura onde o mesmo foi compilado? Porquê?
 2. Compile-o agora com a opção `-m32` do gcc. Qual o resultado? Porquê?
 
-Na questão 2, no caso de não conseguir compilar tem que instalar a biblioteca _multilib_ do gcc. Na máquina virtual pode fazê-lo através do seguinte comando:
+Na questão 2, no caso de não conseguir compilar tem que instalar a biblioteca _multilib_ do gcc. Numa máquina Debian pode fazê-lo através do seguinte comando:
 > sudo apt-get install gcc-multilib
