@@ -209,7 +209,24 @@ Reunião com os vários grupos de trabalho.
 **Prática**:
 
 + Exercícios sobre a componente teórica.
-+ Projeto de desenvolvimento 1 (PD1)
++ Projeto de desenvolvimento 2 (PD2)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.
+
+## Semana 13 - 24/Mai/2022
+
+**Teórica**:
+
+ Segurança de software:
+
++ Validação de input
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
 
 **Reuniões**:
 
