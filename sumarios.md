@@ -231,3 +231,19 @@ Reunião com os vários grupos de trabalho.
 **Reuniões**:
 
 Reunião com os vários grupos de trabalho.
+
+## Semana 13 - 31/Mai/2022
+
+**Teórica**:
+
+ Segurança de software:
+
++ Ferramentas e documentação OWASP
+
+**Prática**:
+
++ Projeto de desenvolvimento 2 (PD2)
+
+**Reuniões**:
+
+Reunião com os vários grupos de trabalho.

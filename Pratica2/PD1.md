@@ -6,22 +6,19 @@ A apresentação e discussão do trabalho será posteriormente marcada em data/h
 
 ## Data e horário de apresentação do trabalho
 
-Data e hora: A indicar
+Data: Terça-feira, dia 07 de Junho, no zoom utilizado para as aulas
 
-+ Grupo 1 - 
-+ Grupo 2 - 
-+ Grupo 3 - 
-+ Grupo 4 - 
-+ Grupo 5 - 
-+ Grupo 6 - 
-+ Grupo 7 - 
-+ Grupo 8 - 
-+ Grupo 9 - 
-+ Grupo 10 - 
-+ Grupo 11 - 
-+ Grupo 12 - 
-+ Grupo 13 - 
-+ Grupo 14 - 
++ Grupo 1 - 14h00
++ Grupo 2 e 4 - 14h20
++ Grupo 3 - 15h00
++ Grupo 5 e 10 - 15h20
++ Grupo 6 - 16h00
++ Grupo 7 - 16h20
++ Grupo 8 - 16h40
++ Grupo 9 - 17h00
++ Grupo 11 - 17h20
++ Grupo 12 e 13 - 17h40
++ Grupo 14 - 18h20
 
 
 ## Avaliação do PD1
