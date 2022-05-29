@@ -43,7 +43,7 @@ De modo ao acompanhamento se processar do melhor modo, os Grupos deverão estar 
 
 **30/Mai/2022**
 
-- Publicado os slides da aula 14 em [slides](slides).
+- Publicado o video da aula 14 em [video_aulas](video_aulas).
 
 **22/Mai/2022**
 
