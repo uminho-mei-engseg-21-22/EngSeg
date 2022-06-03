@@ -1,28 +1,33 @@
 
 # Avaliação prática 2 - Projeto de desenvolvimento 2 (PD2)
 
-De seguida são apresentados os vários projetos de desenvolvimento 2. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 15/06/2022, na subdiretoria "AP2-PD2" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**).
+De seguida são apresentados os vários projetos de desenvolvimento 2. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 20/06/2022, na subdiretoria "AP2-PD2" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**).
 
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 
 ## Data e horário de apresentação do trabalho
 
-Data e hora: A indicar
+Para além da apresentação oral do trabalho, também se vai querer ver o trabalho a funcionar, assim como aceder ao código fonte para que possam explicar algumas das alterações efetuadas.
 
-+ Grupo 1 -
-+ Grupo 2 -
-+ Grupo 3 -
-+ Grupo 4 -
-+ Grupo 5 -
-+ Grupo 6 -
-+ Grupo 7 -
-+ Grupo 8 -
-+ Grupo 9 -
-+ Grupo 10 -
-+ Grupo 11 -
-+ Grupo 12 -
-+ Grupo 13 -
-+ Grupo 14 -
+Data e hora: Terça-feira, dia 28 de Junho, no zoom utilizado para as aulas
+
++ Grupo 1 - 09h00
++ Grupo 2 - 09h40
++ Grupo 3 - 10h20
++ Grupo 4 - 11h00
++ Grupo 5 - 11h40
++ Grupo 6 - 12h20
+
+Data e hora: Quarta-feira, dia 29 de Junho, no zoom utilizado para as aulas
+
++ Grupo 7 - 14h00
++ Grupo 8 - 14h40
++ Grupo 9 - 15h20
++ Grupo 10 - 16h00
++ Grupo 11 - 16h40
++ Grupo 12 - 17h20
++ Grupo 13 - 18h00
++ Grupo 14 - 18h40
 
 ## Avaliação do PD2
 
