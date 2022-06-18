@@ -3,8 +3,7 @@
 
 De seguida são apresentados os vários projetos de desenvolvimento 2. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 20/06/2022, na subdiretoria "AP2-PD2" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**).
 
-A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
-
+Nota: Caso não consiga entregar até 20/06, pode entregar até 24/06, caso em que será descontado 0,5 valores na nota final do PD2.
 ## Data e horário de apresentação do trabalho
 
 Para além da apresentação oral do trabalho, também se vai querer ver o trabalho a funcionar, assim como aceder ao código fonte para que possam explicar algumas das alterações efetuadas.
