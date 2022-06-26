@@ -13,7 +13,6 @@ Data e hora: Terça-feira, dia 28 de Junho, no zoom utilizado para as aulas
 + Grupo 1 - 09h00
 + Grupo 2 - 09h40
 + Grupo 3 - 10h20
-+ Grupo 4 - 11h00
 + Grupo 5 - 11h40
 + Grupo 6 - 12h20
 
@@ -27,6 +26,7 @@ Data e hora: Quarta-feira, dia 29 de Junho, no zoom utilizado para as aulas
 + Grupo 12 - 17h20
 + Grupo 13 - 18h00
 + Grupo 14 - 18h40
++ Grupo 4 - 19h00
 
 ## Avaliação do PD2
 
