@@ -8,6 +8,7 @@
     - PA – Projeto análise de um tema, com elaboração de relatório, assim como exposição do trabalho, com entrega de relatório até 20/03/2022.
     - PD1 - Projeto para consolidação dos conceitos básicos de criptografia, com entrega final até 02/05/2022.
   - PD2 – Projeto de desenvolvimento, com entrega final até 20/06/2022. Nota: Caso não consiga entregar até 20/06, pode entregar até 24/06, caso em que será descontado 0,5 valores na nota final do PD2.
+- [Época Especial](EpocaEspecial) - informação sobre a época especial.
 - [slides](slides) - contém os slides de apoio às aulas teóricas.
 - [video_aulas](video_aulas) - contém o video das aulas teóricas.
 
